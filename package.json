@@ -1,0 +1,15 @@
+{
+  "name": "youtube-bot",
+  "version": "1.0.0",
+  "description": "youtube bot",
+  "main": "youtube.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antianything",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "ms": "^2.1.2"
+  }
+}
